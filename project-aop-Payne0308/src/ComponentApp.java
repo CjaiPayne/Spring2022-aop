@@ -4,7 +4,7 @@ public class ComponentApp {
    public ComponentApp(String name) {
       this.name = name;
    }
-
+   // sring get
    public String getName() {
       return name;
    }
